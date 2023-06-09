@@ -1,0 +1,15 @@
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\bin\Release\net7.0\Modulo9.exe
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\bin\Release\net7.0\Modulo9.deps.json
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\bin\Release\net7.0\Modulo9.runtimeconfig.json
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\bin\Release\net7.0\Modulo9.dll
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\bin\Release\net7.0\Modulo9.pdb
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.csproj.AssemblyReference.cache
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.AssemblyInfoInputs.cache
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.AssemblyInfo.cs
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.csproj.CoreCompileInputs.cache
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.dll
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\refint\Modulo9.dll
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.pdb
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\Modulo9.genruntimeconfig.cache
+C:\Users\VICTO\Repos\DesafioNET\Modulo9\obj\Release\net7.0\ref\Modulo9.dll
